@@ -1,0 +1,3 @@
+TipoPrivilegio.ADMINISTRADOR, "Dean", "1234"
+TipoPrivilegio.FUNCIONARIO, "CaBM", "1234"
+TipoPrivilegio.FUNCIONARIO, "MOrellana", "pp78"
